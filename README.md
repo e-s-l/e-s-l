@@ -1,6 +1,9 @@
-### Hi there 👋
 
-### 📫 Reach me: e-sullivan-lester@protonmail.com or on instagram: ___p34r1
+### These repo.s here are mostly self-assigned studies out of interest, tho' there are some relating to work. 
+
+### I am a physicist trying to hone my coding chops. Slowly, slowly.
+
+### 📫 Reach me @ e-sullivan-lester@protonmail.com or on instagram: ___p34r1
 
 <!--
 **e-s-l/e-s-l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
