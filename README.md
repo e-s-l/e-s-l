@@ -1,13 +1,14 @@
-Hello!
+<h2>Hello!</h2>
 
-<details close>
+<details close align="center">
     <summary>More Info:</summary>
     <ul>
         <li>I am a physicist *trying* to hone my coding. *Slowly, slowly.*</li>
         <li>The repos here are mostly self-assigned studies out of interest, tho' there are some relating to work. </li>
-        <li>📫 Reach me @ e-sullivan-lester@protonmail.com or on instagram: ___p34r1 </li>
     </ul>
 </details>
+
+ <p>📫 Reach me @ e-sullivan-lester@protonmail.com or on instagram: ___p34r1 </p>
 
 
 
