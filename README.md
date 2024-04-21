@@ -1,6 +1,6 @@
 <h2><samp>Hello!</samp></h2>
 
-<p>📫 <samp>Reach me @ e-sullivan-lester@proton.me or on instagram: ___p34r1 </samp></p>
+<p>📫 <samp>Reach me via e-sullivan-lester@proton.me or find me on instagram: ___p34r1 </samp></p>
 
 <details open align="center">
 <summary><samp>More Info:</samp></summary>
