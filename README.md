@@ -1,15 +1,14 @@
-<h2>Hello!</h2>
+<h2><samp>Hello!</samp></h2>
 
-<details close align="center">
-    <summary>More Info:</summary>
-    <ul>
-        <li>I am a physicist *trying* to hone my coding. *Slowly, slowly.*</li>
-        <li>The repos here are mostly self-assigned studies out of interest, tho' there are some relating to work. </li>
-    </ul>
+<p>📫 <samp>Reach me @ e-sullivan-lester@proton.me or on instagram: ___p34r1 </samp></p>
+
+<details open align="center">
+<summary><samp>More Info:</samp></summary>
+<ul>
+    <li><samp>I am a physicist trying to hone my coding.</samp> <em>Slowly, slowly.</em></li>
+    <li><samp>The repos here are mostly self-assigned studies out of interest, tho' there are some relating to work.</samp> </li>
+</ul>
 </details>
-
- <p>📫 Reach me @ e-sullivan-lester@protonmail.com or on instagram: ___p34r1 </p>
-
 
 
 <!--
