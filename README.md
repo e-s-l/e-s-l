@@ -1,14 +1,19 @@
-<h2><samp>Hello!</samp></h2>
-
-<p>📫 <samp>Reach me via e-sullivan-lester@proton.me or find me on instagram: ___p34r1 </samp></p>
-
 <details open align="center">
-<summary><samp>More Info:</samp></summary>
+<summary>
+<h2><samp>Hello!</samp></h2>
+</summary>
 <ul>
+    <li><samp>Physical Cosmology, Tasmania.</samp></li>
+    <li><samp>Geodetic VLBI, Svalbard.</samp></li>
+    <li><samp>Reach me at e-sullivan-lester@proton.me or find me on instagram: ___p34r1 </samp></li>
     <li><samp>I am a physicist trying to hone my coding.</samp> <em>Slowly, slowly.</em></li>
     <li><samp>The repos here are mostly self-assigned studies out of interest, tho' there are some relating to work.</samp> </li>
 </ul>
 </details>
+
+
+
+
 
 
 <!--
