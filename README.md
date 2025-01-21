@@ -1,9 +1,3 @@
-
-<style>
-li {
-  list-style: none;
-}
-</style>
 <details closed align="center">
 <summary>
 <h2><samp></samp></h2>
